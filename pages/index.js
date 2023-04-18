@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>志賀広拓</title>
+        <title>ホームページ</title>
         <meta name="description" content="HP作成会用のサンプルページ" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -281,7 +281,7 @@ export default function Home() {
               fontWeight={"bold"}
               letterSpacing={"0.1rem"}
             >
-              私について
+              自己紹介
             </Text>
             <Box>
               <Text
@@ -335,7 +335,7 @@ export default function Home() {
                   fontSize={"18px"}
                   fontWeight={""}
                 >
-                  your_user_name
+                koutas0827
                 </Text>
               </Flex>
               <Flex alignItems={"center"} h="100%">
