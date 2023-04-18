@@ -79,7 +79,7 @@ export default function Home() {
             </Flex>
           </Flex>
         </Box>
-        <Box h="100vh" w="100vw" className="bronze">
+        <Box h="100vh" w="100vw" className="green">
           <Flex
             justifyContent={"center"}
             alignItems={"center"}
