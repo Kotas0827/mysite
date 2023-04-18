@@ -69,7 +69,7 @@ export default function Home() {
               mr="auto"
               ml="90px"
             >
-              SHIGA
+              S
             </Text>
             <Flex mr="90px">
               <Text mr="40px" fontWeight={"bold"}>
@@ -102,7 +102,7 @@ export default function Home() {
               color="gray.800"
               className="text shadow"
             >
-              KOTA SHIGA
+              K S
             </Text>
           </Flex>
         </Box>
@@ -228,7 +228,7 @@ export default function Home() {
               letterSpacing={"0.05rem"}
               color="#333333"
             >
-              KOTA SHIGA
+              K S
             </Text>
           </Flex>
         </Box>
@@ -352,7 +352,7 @@ export default function Home() {
                   fontSize={"18px"}
                   fontWeight={""}
                 >
-                  @your_user_name
+                  @kota85097324130
                 </Text>
               </Flex>
             </Box>
@@ -378,7 +378,7 @@ export default function Home() {
               letterSpacing={"0.05rem"}
               color="#333333"
             >
-              NAMAE MYOUJI
+            K S
             </Text>
           </Flex>
         </Box>
